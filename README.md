@@ -63,6 +63,6 @@ java bridgepattern.BridgePattern
 - "Design Patterns" - Gang of Four
 - "Head First Design Patterns" - Freeman & Freeman
 
-## 📝 License
+## License
 
 MIT License - See [LICENSE](LICENSE) file for details
