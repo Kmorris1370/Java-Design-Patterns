@@ -5,9 +5,9 @@
 package bridgepattern;
 
 /**
- *
- * @author kmorr
+ * @author kmorris1370
  */
+
 public class GreenDraw {
     
 }
